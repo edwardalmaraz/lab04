@@ -1,18 +1,17 @@
 //=========================================================================
 // Name & Email must be EXACTLY as in Gradescope roster!
-// Name: 
-// Email: 
+// Name: Edward Almaraz
+// Email: ealma014@ucr.edu
 // 
-// Assignment name: 
-// Lab section: 
-// TA: 
+// Assignment name: Single Cycle Datapath
+// Lab section: 21
+// TA: Nurlan
 // 
 // I hereby certify that I have not received assistance on this assignment,
 // or used code, from ANY outside source other than the instruction team
 // (apart from what was provided in the starter file).
 //
 //=========================================================================
-
 //=========================================================================
 //
 // DO NOT CHANGE ANYTHING BELOW THIS COMMENT. IT IS PROVIDED TO MAKE SURE 
